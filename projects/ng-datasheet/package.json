@@ -1,13 +1,13 @@
 {
-  "name": "@biliboobrian/ng-datasheet",
-  "author": "Pierre Hanauer <biliboobrian@yahoo.fr>",
+  "name": "@its4u/ng-datasheet",
+  "author": "ITs4U <contact@its4u.fr>",
   "version": "11.0.3",
-  "homepage": "https://biliboobrian.github.io/ng-datasheet/",
+  "homepage": "https://its4u.github.io/ng-datasheet/",
   "description": "Native Angular inline spreadsheet component",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/biliboobrian/ng-datasheet.git"
+    "url": "git+ssh://git@github.com/its4u/ng-datasheet.git"
   },
   "keywords": [
     "angular",
